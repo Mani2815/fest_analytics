@@ -40,7 +40,7 @@ The application is divided into three main pages:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Mani2815/2547261_APP_ETE.git
+   git clone https://github.com/Mani2815/fest_analytics.git
    cd 2547261_APP_ETE
    ```
 
